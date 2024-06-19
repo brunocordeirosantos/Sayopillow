@@ -1,19 +1,28 @@
-# :earth_americas: GDP Dash
+# SaYoPillow
 
-A simple Streamlit app showing the GDP of different countries in the world.
+SaYoPillow é um projeto que utiliza dados de um dispositivo IoT para monitorar e analisar a relação entre o sono e os níveis de estresse. Este projeto inclui uma aplicação interativa desenvolvida com Streamlit para visualizar os dados e extrair insights valiosos.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+## Descrição do Projeto
 
-### How to run it on your own machine
+A SaYoPillow ajuda a entender a relação entre estresse e sono através da análise de parâmetros fisiológicos como faixa de ronco, taxa de respiração, temperatura corporal, movimento dos membros, níveis de oxigênio no sangue, movimento dos olhos, horas de sono e frequência cardíaca.
 
-1. Install the requirements
+## Tecnologias Utilizadas
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+- Python
+- Streamlit
+- Pandas
+- Seaborn
+- Matplotlib
 
-2. Run the app
+## Como Executar o Projeto
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+### Pré-requisitos
+
+- Python 3.7 ou superior
+
+### Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/teste.git
+   cd teste
