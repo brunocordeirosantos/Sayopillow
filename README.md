@@ -1,3 +1,6 @@
+Sim, incluir o link do Streamlit no README do GitHub é uma boa prática. Isso permite que qualquer pessoa que visite o repositório possa acessar diretamente a aplicação interativa sem precisar configurá-la localmente. Aqui está a versão atualizada do README.md com o link do Streamlit adicionado:
+
+```markdown
 # SaYoPillow
 
 SaYoPillow é um projeto que utiliza dados de um dispositivo IoT para monitorar e analisar a relação entre o sono e os níveis de estresse. Este projeto inclui uma aplicação interativa desenvolvida com Streamlit para visualizar os dados e extrair insights valiosos.
@@ -45,6 +48,11 @@ Para executar a aplicação Streamlit, utilize o comando abaixo:
 ```bash
 streamlit run SayoPillow.py
 ```
+
+### Acessando a Aplicação Online
+
+Você pode acessar a aplicação diretamente através do link:
+(https://sayopillow.streamlit.app/?embed=true)
 
 ## Estrutura do Repositório
 
