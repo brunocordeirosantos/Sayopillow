@@ -1,6 +1,3 @@
-Claro! Aqui está o conteúdo para o arquivo `README.md` que você pode copiar e colar diretamente no GitHub:
-
-```markdown
 # SaYoPillow
 
 SaYoPillow é um projeto que utiliza dados de um dispositivo IoT para monitorar e analisar a relação entre o sono e os níveis de estresse. Este projeto inclui uma aplicação interativa desenvolvida com Streamlit para visualizar os dados e extrair insights valiosos.
