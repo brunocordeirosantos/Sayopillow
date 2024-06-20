@@ -30,28 +30,26 @@ O dataset utilizado neste projeto foi extraído do Kaggle e pode ser acessado [a
    cd Sayopillow
 Crie um ambiente virtual e ative-o:
 
-bash
-Copiar código
+### Copiar código
 python -m venv venv
 source venv/bin/activate # Para Windows, use `venv\Scripts\activate`
-Instale as dependências:
 
-bash
-Copiar código
+### Instale as dependências:
+
+### Copiar código
 pip install -r requirements.txt
-Executando a Aplicação
+
+### Executando a Aplicação
 Para executar a aplicação Streamlit, utilize o comando abaixo:
 
-bash
-Copiar código
 streamlit run SayoPillow.py
-Acessando a Aplicação Online
+
+### Acessando a Aplicação Online
 Você pode acessar a aplicação diretamente através do link:
 https://sayopillow.streamlit.app/?embed=true
 
-Estrutura do Repositório
-plaintext
-Copiar código
+### Estrutura do Repositório
+
 .
 ├── .devcontainer
 ├── data
