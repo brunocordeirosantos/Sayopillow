@@ -31,7 +31,7 @@ O dataset utilizado neste projeto foi extraído do Kaggle e pode ser acessado [a
 Crie um ambiente virtual e ative-o:
 
 ### Copiar código
-```bash
+
 python -m venv venv
 source venv/bin/activate # Para Windows, use `venv\Scripts\activate`
 
@@ -61,9 +61,11 @@ https://sayopillow.streamlit.app/?embed=true
 ├── SayoPillow.py
 ├── requirements.txt
 └── streamlit_app.py
+
 Resultados
 Correlação entre Horas de Sono e Nível de Estresse: Identificamos que a quantidade de sono tem uma correlação inversa com os níveis de estresse, destacando a importância de uma boa noite de sono.
 Distribuição da Frequência Cardíaca: Analisamos as variações na frequência cardíaca durante a noite, que podem estar associadas a diferentes estágios do sono e níveis de estresse.
+
 Contribuições
 Contribuições são bem-vindas! Por favor, abra uma issue ou envie um pull request para melhorias.
 
