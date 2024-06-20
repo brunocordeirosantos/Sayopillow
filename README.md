@@ -31,13 +31,14 @@ O dataset utilizado neste projeto foi extraído do Kaggle e pode ser acessado [a
 Crie um ambiente virtual e ative-o:
 
 ### Copiar código
+```bash
 python -m venv venv
 source venv/bin/activate # Para Windows, use `venv\Scripts\activate`
 
 ### Instale as dependências:
 
 ### Copiar código
-```bash
+
 pip install -r requirements.txt
 
 ### Executando a Aplicação
