@@ -37,6 +37,7 @@ source venv/bin/activate # Para Windows, use `venv\Scripts\activate`
 ### Instale as dependências:
 
 ### Copiar código
+```bash
 pip install -r requirements.txt
 
 ### Executando a Aplicação
@@ -50,7 +51,7 @@ https://sayopillow.streamlit.app/?embed=true
 
 ### Estrutura do Repositório
 
-.
+```bash
 ├── .devcontainer
 ├── data
 │   └── BaseSayoPillow.csv
