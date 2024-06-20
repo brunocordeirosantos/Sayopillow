@@ -52,7 +52,7 @@ https://sayopillow.streamlit.app/?embed=true
 
 ### Estrutura do Repositório
 
-```bash
+.
 ├── .devcontainer
 ├── data
 │   └── BaseSayoPillow.csv
@@ -62,7 +62,7 @@ https://sayopillow.streamlit.app/?embed=true
 ├── requirements.txt
 └── streamlit_app.py
 
-Resultados
+### Resultados
 Correlação entre Horas de Sono e Nível de Estresse: Identificamos que a quantidade de sono tem uma correlação inversa com os níveis de estresse, destacando a importância de uma boa noite de sono.
 Distribuição da Frequência Cardíaca: Analisamos as variações na frequência cardíaca durante a noite, que podem estar associadas a diferentes estágios do sono e níveis de estresse.
 
