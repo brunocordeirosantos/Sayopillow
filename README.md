@@ -1,6 +1,6 @@
 # SaYoPillow
 
-SaYoPillow é um projeto que utiliza dados de um dispositivo IoT para monitorar e analisar a relação entre o sono e os níveis de estresse. Este projeto inclui uma aplicação interativa desenvolvida com Streamlit para visualizar os dados e extrair insights valiosos. Esta solução foi inicialmente desenvolvida por Laavanya Rachakonda uma professora universitária da Carolina do Norte e o desenvolvimento do nosso projeto foi voltado para estudos acadêmicos das diferentes aplicações da IoT.
+SaYoPillow é um projeto que utiliza dados de um dispositivo IoT para monitorar e analisar a relação entre o sono e os níveis de estresse. Este projeto inclui uma aplicação interativa desenvolvida com Streamlit para visualizar os dados e extrair insights valiosos. Esta solução foi inicialmente desenvolvida por uma professora universitária da Carolina do Norte e o desenvolvimento do nosso projeto foi voltado para estudos acadêmicos das diferentes aplicações da IoT.
 
 ## Descrição do Projeto
 
@@ -50,7 +50,7 @@ Você pode acessar a aplicação diretamente através do link:
 https://sayopillow.streamlit.app/?embed=true
 
 Estrutura do Repositório
-kotlin
+plaintext
 Copiar código
 .
 ├── .devcontainer
@@ -74,4 +74,4 @@ Contato
 Para mais informações, entre em contato através de [brunocordeirosantosbcs@gmail.com].
 
 Resumo do Projeto
-O SaYoPillow é uma aplicação inovadora que integra tecnologias de IoT e machine learning para monitorar e analisar a qualidade do sono e os níveis de estresse dos usuários. Utilizando dados fisiológicos capturados por sensores, a aplicação realiza uma análise detalhada dos padrões de sono, identifica possíveis distúrbios e prevê níveis de estresse para o dia seguinte. As visualizações geradas pela aplicação, como gráficos de dispersão e histogramas, oferecem insights valiosos sobre a relação entre sono e estresse. Este projeto demonstra como tecnologias avançadas podem ser aplicadas para melhorar a saúde e o bem-estar das pessoas, proporcionando uma ferramenta poderosa para a gestão do sono e do estresse.
+O SaYoPillow é uma aplicação inovadora que integra tecnologias de IoT e machine learning para monitorar e analisar a qualidade do sono e os níveis de estresse dos usuários. Utilizando dados fisiológicos capturados por sensores, a aplicação realiza uma análise detalhada dos padrões de sono, identifica possíveis distúrbios e prevê níveis de estresse para o dia seguinte. As visualizações geradas pela aplicação, como gráficos de dispersão e histogramas, oferecem insights valiosos sobre a relação entre sono e estresse. Este projeto demonstra como tecnologias avançadas podem ser aplicadas para melhorar a saúde e o bem-estar das pessoas, proporcionando uma ferramenta poderosa para a gestão do sono e do estresse.proporcionando uma ferramenta poderosa para a gestão do sono e do estresse.
